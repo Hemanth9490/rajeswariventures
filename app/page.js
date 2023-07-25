@@ -1,9 +1,21 @@
-import Image from 'next/image'
-import styles from './page.module.css'
-import Link from 'next/link'
-
+import Banner from "./components/banner"
+import Services from "./components/services"
+import Testimonials from "./components/testimonial"
+import WhyChoose from "./components/why-choose"
+import "./page.css"
 export default function Home() {
   return (
-   <Link href="/top-cities">Top Cities</Link>
+    <main>
+      <Banner />
+      <div className="container">
+        <Services />
+        <WhyChoose />
+
+        <Testimonials />
+      </div>
+      <footer>
+          <p>&copy; 2023 Rajeswari Ventures. All rights reserved.</p>
+        </footer>
+    </main>
   )
 }

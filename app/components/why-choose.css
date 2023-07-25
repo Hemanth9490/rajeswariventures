@@ -1,0 +1,69 @@
+
+
+.why-choose-us {
+    text-align: center;
+    max-width: 1000px;
+    margin: 3rem auto 0rem auto;
+}
+.why-choose-us h2 {
+    color: #8993A4;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+.why-choose-us .feature-heading{
+    margin: 3rem  0rem;
+
+}
+
+.why-choose-us p {
+    font-size: 18px;
+}
+
+.why-choose-us .feature {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    box-shadow: 0px 1px 4px 0px rgba(0, 106, 194, 0.20);
+    border-radius: 5px;
+    padding: 20px;
+    width: max-content;
+}
+.why-choose-us .feature-reverse{
+    flex-direction: row-reverse;
+    margin-left: auto;
+}
+
+.why-choose-us .feature img {
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.why-choose-us .feature p {
+    text-align: left;
+    max-width: 600px;
+}
+
+.why-choose-us .feature.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 1s ease forwards;
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+.why-choose-us p{
+    font-size: small;
+}
