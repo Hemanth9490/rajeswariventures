@@ -11,7 +11,6 @@ export default function Banner() {
         </div>
         <h1>Rajeswari Ventures</h1>
         <p>Empowering Innovation</p>
-        {/* <img src="/images/logo.png" alt="Strategic partnerships" /> */}
 
     </header>)
 }

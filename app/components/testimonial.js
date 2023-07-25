@@ -1,3 +1,4 @@
+import Image from "next/image"
 import "./testimonial.css"
 
 export default function Testimonials() {
@@ -7,7 +8,7 @@ export default function Testimonials() {
             <div class="testimonial-container">
                 <div class="testimonial">
                     <div class="customer-info">
-                        <img class="profile-image" src="/images/testimonials/1.jpg" alt="Customer Profile 1" />
+                        <Image width="500" height="5" class="profile-image" src="/images/testimonials/1.jpg" alt="Customer Profile 1" />
                         <p class="customer-name">John Doe</p>
                     </div>
                     <p class="customer-review">
@@ -19,7 +20,7 @@ export default function Testimonials() {
 
                 <div class="testimonial">
                     <div class="customer-info">
-                        <img class="profile-image" src="/images/testimonials/2.jpg" alt="Customer Profile 2" />
+                        <Image width="500" height="5" class="profile-image" src="/images/testimonials/2.jpg" alt="Customer Profile 2" />
                         <p class="customer-name">Jane Smith</p>
                     </div>
                     <p class="customer-review">
@@ -31,7 +32,7 @@ export default function Testimonials() {
 
                 <div class="testimonial">
                     <div class="customer-info">
-                        <img class="profile-image" src="/images/testimonials/3.jpg" alt="Customer Profile 2" />
+                        <Image width="500" height="5" class="profile-image" src="/images/testimonials/3.jpg" alt="Customer Profile 2" />
                         <p class="customer-name">Jane Smith</p>
                     </div>
                     <p class="customer-review">
@@ -43,7 +44,7 @@ export default function Testimonials() {
 
                 <div class="testimonial">
                     <div class="customer-info">
-                        <img class="profile-image" src="/images/testimonials/4.jpg" alt="Customer Profile 2" />
+                        <Image width="500" height="5" class="profile-image" src="/images/testimonials/4.jpg" alt="Customer Profile 2" />
                         <p class="customer-name">Jane Smith</p>
                     </div>
                     <p class="customer-review">
@@ -55,7 +56,7 @@ export default function Testimonials() {
 
                 <div class="testimonial">
                     <div class="customer-info">
-                        <img class="profile-image" src="/images/testimonials/5.jpg" alt="Customer Profile 2" />
+                        <Image width="500" height="5" class="profile-image" src="/images/testimonials/5.jpg" alt="Customer Profile 2" />
                         <p class="customer-name">Jane Smith</p>
                     </div>
                     <p class="customer-review">
@@ -67,7 +68,7 @@ export default function Testimonials() {
 
                 <div class="testimonial">
                     <div class="customer-info">
-                        <img class="profile-image" src="/images/testimonials/1.jpg" alt="Customer Profile 2" />
+                        <Image width="500" height="5" class="profile-image" src="/images/testimonials/1.jpg" alt="Customer Profile 2" />
                         <p class="customer-name">Jane Smith</p>
                     </div>
                     <p class="customer-review">
