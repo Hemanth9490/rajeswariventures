@@ -12,8 +12,8 @@ export default function Testimonials() {
                         <p class="customer-name">John Doe</p>
                     </div>
                     <p class="customer-review">
-                        "I had a fantastic experience with Rajeshwari Ventures. Their team was incredibly helpful
-                        throughout the entire process. I am thrilled with my new home! Highly recommended."
+                    &quot;I had a fantastic experience with Rajeshwari Ventures. Their team was incredibly helpful
+                        throughout the entire process. I am thrilled with my new home! Highly recommended.&quot;
                     </p>
                 </div>
 
@@ -24,8 +24,8 @@ export default function Testimonials() {
                         <p class="customer-name">Jane Smith</p>
                     </div>
                     <p class="customer-review">
-                        "Working with Rajeshwari Ventures was a pleasure. They helped me find the perfect location
-                        for my dream home. I couldn't be happier with my purchase!"
+                    &quot;Working with Rajeshwari Ventures was a pleasure. They helped me find the perfect location
+                        for my dream home. I couldn&apos;t be happier with my purchase!&quot;
                     </p>
                 </div>
 
@@ -36,8 +36,8 @@ export default function Testimonials() {
                         <p class="customer-name">Jane Smith</p>
                     </div>
                     <p class="customer-review">
-                        "Working with Rajeshwari Ventures was a pleasure. They helped me find the perfect location
-                        for my dream home. I couldn't be happier with my purchase!"
+                    &quot;Working with Rajeshwari Ventures was a pleasure. They helped me find the perfect location
+                        for my dream home. I couldn&apos;t be happier with my purchase!&quot;
                     </p>
                 </div>
 
@@ -48,8 +48,8 @@ export default function Testimonials() {
                         <p class="customer-name">Jane Smith</p>
                     </div>
                     <p class="customer-review">
-                        "Working with Rajeshwari Ventures was a pleasure. They helped me find the perfect location
-                        for my dream home. I couldn't be happier with my purchase!"
+                    &quot;Working with Rajeshwari Ventures was a pleasure. They helped me find the perfect location
+                        for my dream home. I couldn&apos;t be happier with my purchase!&quot;
                     </p>
                 </div>
 
@@ -60,8 +60,8 @@ export default function Testimonials() {
                         <p class="customer-name">Jane Smith</p>
                     </div>
                     <p class="customer-review">
-                        "Working with Rajeshwari Ventures was a pleasure. They helped me find the perfect location
-                        for my dream home. I couldn't be happier with my purchase!"
+                    &quot;Working with Rajeshwari Ventures was a pleasure. They helped me find the perfect location
+                        for my dream home. I couldn&apos;t be happier with my purchase!&quot;
                     </p>
                 </div>
 
@@ -72,8 +72,8 @@ export default function Testimonials() {
                         <p class="customer-name">Jane Smith</p>
                     </div>
                     <p class="customer-review">
-                        "Working with Rajeshwari Ventures was a pleasure. They helped me find the perfect location
-                        for my dream home. I couldn't be happier with my purchase!"
+                    &quot;Working with Rajeshwari Ventures was a pleasure. They helped me find the perfect location
+                        for my dream home. I couldn&apos;t be happier with my purchase!&quot;
                     </p>
                 </div>
 

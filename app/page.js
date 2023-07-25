@@ -14,7 +14,7 @@ export default function Home() {
         <Testimonials />
       </div>
       <footer>
-          <p>&copy; 2023 Rajeswari Ventures. All rights reserved.</p>
+          <p> @2023 Rajeswari Ventures. All rights reserved.</p>
         </footer>
     </main>
   )
