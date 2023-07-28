@@ -11,8 +11,8 @@ export default function Services() {
                 {/* <p>Discover Your Dream Home with Rajeshwari Ventures. Begin Your Journey!</p> */}
             </div>
             <div class="service">
-                <Image width="500" height="500" src="/images/explore-images/5.png" alt="Business consulting" />
-                <h3>Renting a home</h3>
+                <Image width="500" height="500" src="/images/explore-images/Home Service.jpg" alt="Business consulting" />
+                <h3>Home Services</h3>
                 {/* <p>Find Your Perfect Rental Home with Rajeshwari Ventures. Start Now!</p> */}
             </div>
             <div class="service">
